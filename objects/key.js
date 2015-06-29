@@ -1,5 +1,5 @@
 var Key={
- var keyid;
- var open=function(door){open(door);};
- var pos;//Use position(x,y) object constructor
+ keyid:undefined
+ open:function(door){opens(door);},
+ pos:undefined//Use position(x,y) object constructor
 }
